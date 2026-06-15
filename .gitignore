@@ -1,0 +1,12 @@
+.DS_Store
+.env
+
+
+
+
+target/
+
+.idea/
+.vscode/
+
+*.log
